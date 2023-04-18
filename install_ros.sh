@@ -24,7 +24,7 @@ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main
 
 echo "=====Set up your keys"
 sudo apt install curl # if you haven't already installed curl
-sudo apt-key add ros.ascrv
+sudo apt-key add ros.asc
 
 echo "=====Installation"
 sudo apt update
