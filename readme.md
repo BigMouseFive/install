@@ -5,4 +5,5 @@
 - ros.asc
 ## 2.安装oh_my_zsh
 参考https://ohmyz.sh/#install
+依赖：git zsh
 - oh_my_zsh.sh
